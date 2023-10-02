@@ -1,0 +1,78 @@
+body {
+    font-family: "Arial, sans-serif";
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+}
+
+.title {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-family: "Your Chosen Font", sans-serif; /* fonte */
+}
+
+.company-select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#loadButton {
+    background-color: #0056b3; 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+#loadButton:hover {
+    background-color: #568be0; 
+}
+
+.contract-details {
+    text-align: left;
+    border: 2px solid #ff9900; 
+    padding: 10px;
+    background-color: #cce6ff; 
+    margin-bottom: 10px; /* Ajuste de margem inferior */
+}
+
+.footer {
+    background-color: #cce6ff; 
+    padding: 10px;
+    border-top: 1px solid #ff9900; 
+    border-radius: 0 0 10px 10px;
+}
+body {
+    font-family: "Arial, sans-serif";
+    margin: 0;
+    padding: 0;
+    background-color: #accfbc2a; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(228, 251, 252);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    max-width: 1200px; /*largura da pagina*/
+    margin: 0 auto; 
+}
